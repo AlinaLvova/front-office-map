@@ -1,5 +1,5 @@
 # Карта офиса (Frontend)
-
+![ff](./office_map.png)
 ## Запуск бекенд
 Инструкция по установке https://github.com/esolder/office_map
 
