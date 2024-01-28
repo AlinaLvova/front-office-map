@@ -40,8 +40,8 @@ export default {
   margin: 0;
 }
 
-p, h1{
-  margin: 0 !important;
+h1{
+  margin: 10 !important;
   padding: 0 !important;
 }
 
